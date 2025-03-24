@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
   }
   
-  .phone-area {
+  .container {
     width: 300px;
     height: 600px;
     background-color: #000;
